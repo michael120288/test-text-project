@@ -4,4 +4,4 @@
 * learn
 * Wash
 * eat
- and so on
+ and so on and so on
